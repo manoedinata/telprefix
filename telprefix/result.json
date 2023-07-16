@@ -1,0 +1,267 @@
+{
+    "0852": {
+        "provider": "Telkomsel",
+        "jenis": "Kartu AS",
+        "keterangan": "Nomor mempunyai 12 digit angka"
+    },
+    "0853": {
+        "provider": "Telkomsel",
+        "jenis": "Kartu AS",
+        "keterangan": "Nomor mempunyai 12 digit angka."
+    },
+    "0811": {
+        "provider": "Telkomsel",
+        "jenis": "Kartu Halo",
+        "keterangan": "Nomor mempunyai 10 sampai 11 digit angka"
+    },
+    "0812": {
+        "provider": "Telkomsel",
+        "jenis": [
+            "Kartu Simpati",
+            "Halo"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    },
+    "0813": {
+        "provider": "Axis",
+        "jenis": null,
+        "keterangan": "Nomor mempunyai 10 sampai 12 digit angka"
+    },
+    "0821": {
+        "provider": "Telkomsel",
+        "jenis": "Kartu Simpati",
+        "keterangan": "Nomor mempunyai 12 digit angka"
+    },
+    "0822": {
+        "provider": "Telkomsel",
+        "jenis": [
+            "Kartu Loop",
+            "Facebook"
+        ],
+        "keterangan": "Nomor mempunyai 12 digit angka"
+    },
+    "0851": {
+        "provider": "Telkomsel",
+        "jenis": [
+            "Kartu AS",
+            "By.u"
+        ],
+        "keterangan": "Pengganti provider Flexi yang sudah diakusisi"
+    },
+    "0855": {
+        "provider": "Indosat",
+        "jenis": "Matrix",
+        "keterangan": "Nomor mempunyai 10 digit angka"
+    },
+    "0856": {
+        "provider": "Indosat",
+        "jenis": "IM3",
+        "keterangan": "Nomor mempunyai 10 digit angka (limited edition). Lalu 11 sampai 12 digit angka yang biasa."
+    },
+    "0857": {
+        "provider": "Indosat",
+        "jenis": "IM3",
+        "keterangan": "Nomor mempunyai 12 digit angka."
+    },
+    "0858": {
+        "provider": "Indosat",
+        "jenis": "Mentari",
+        "keterangan": "Nomor mempunyai 12 digit angka"
+    },
+    "0814": {
+        "provider": "Indosat",
+        "jenis": "Broadband Indosat M2",
+        "keterangan": "Nomor mempunyai 12 digit angka"
+    },
+    "0815": {
+        "provider": "Indosat",
+        "jenis": [
+            "Matrix",
+            "Mentari"
+        ],
+        "keterangan": "Nomor mempunyai 11 hingga 12 digit angka"
+    },
+    "0816": {
+        "provider": "Indosat",
+        "jenis": [
+            "Matrix",
+            "Mentari"
+        ],
+        "keterangan": "Nomor mempunyai 11 hingga 12 digit angka"
+    },
+    "0817": {
+        "provider": "XL Axiata",
+        "jenis": [
+            "Prabayar",
+            "Explor"
+        ],
+        "keterangan": "Nomor mempunyai 10 sampai 12 digit angka"
+    },
+    "0818": {
+        "provider": "XL Axiata",
+        "jenis": [
+            "Prabayar",
+            "Explor"
+        ],
+        "keterangan": "Nomor mempunyai 10 sampai 12 digit angka"
+    },
+    "0819": {
+        "provider": "XL Axiata",
+        "jenis": [
+            "Prabayar",
+            "Explor"
+        ],
+        "keterangan": "Nomor mempunyai 10 sampai 12 digit angka"
+    },
+    "0859": {
+        "provider": "XL Axiata",
+        "jenis": [
+            "Prabayar",
+            "Explor"
+        ],
+        "keterangan": "Nomor mempunyai 12 digit angka"
+    },
+    "0877": {
+        "provider": "XL Axiata",
+        "jenis": [
+            "Prabayar",
+            "Explor"
+        ],
+        "keterangan": "Nomor mempunyai 12 digit angka"
+    },
+    "0878": {
+        "provider": "XL Axiata",
+        "jenis": [
+            "Prabayar",
+            "Explor"
+        ],
+        "keterangan": "Nomor mempunyai 12 digit angka"
+    },
+    "0895": {
+        "provider": "Three (3)",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 12 sampai 13 digit angka"
+    },
+    "0896": {
+        "provider": "Three (3)",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    },
+    "0897": {
+        "provider": "Three (3)",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    },
+    "0898": {
+        "provider": "Three (3)",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    },
+    "0899": {
+        "provider": "Three (3)",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    },
+    "0832": {
+        "provider": "Axis",
+        "jenis": null,
+        "keterangan": "Nomor mempunyai 10 sampai 12 digit angka"
+    },
+    "0833": {
+        "provider": "Axis",
+        "jenis": null,
+        "keterangan": "Nomor mempunyai 10 sampai 12 digit angka"
+    },
+    "0838": {
+        "provider": "Axis",
+        "jenis": null,
+        "keterangan": "Nomor mempunyai 12 digit angka"
+    },
+    "0881": {
+        "provider": "Smartfren",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    },
+    "0882": {
+        "provider": "Smartfren",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    },
+    "0883": {
+        "provider": "Smartfren",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    },
+    "0884": {
+        "provider": "Smartfren",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    },
+    "0885": {
+        "provider": "Smartfren",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    },
+    "0886": {
+        "provider": "Smartfren",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    },
+    "0887": {
+        "provider": "Smartfren",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    },
+    "0888": {
+        "provider": "Smartfren",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    },
+    "0889": {
+        "provider": "Smartfren",
+        "jenis": [
+            "Pascabayar",
+            "Prabayar"
+        ],
+        "keterangan": "Nomor mempunyai 11 sampai 12 digit angka"
+    }
+}
